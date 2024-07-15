@@ -29,9 +29,13 @@ github_username:  Shuei_AI
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
+
+# Minima theme settings
+minima:
+  skin: classic
 
 
 # Exclude from processing.
