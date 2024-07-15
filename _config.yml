@@ -28,9 +28,15 @@ twitter_username: Shuei_AI
 github_username:  Shuei_AI
 
 # Build settings
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+# Minima theme settings
+minima:
+  skin: classic
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
