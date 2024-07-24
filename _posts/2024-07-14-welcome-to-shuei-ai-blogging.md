@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Shuei AI-Blogging!"
-date:   2024-07-15 13:55:18 +0900
+date:   2024-07-14 13:55:18 +0900
 categories: Introductory
 ---
 
