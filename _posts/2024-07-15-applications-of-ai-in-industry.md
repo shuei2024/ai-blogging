@@ -2,7 +2,7 @@
 layout: post
 title: "Applications of AI in Industry"
 date: 2024-07-15 10:00:00 -0000
-categories: ai industry
+categories: AI Industry
 ---
 
 #### Introduction
