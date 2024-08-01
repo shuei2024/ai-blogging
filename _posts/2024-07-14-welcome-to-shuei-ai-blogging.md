@@ -8,7 +8,7 @@ categories: Introductory
 ## 当社のAIブログへようこそ：技術の未来を探る
 こんにちは、そして当社のAIブログへようこそ！
 
-![Shuei AI Assistant](assets/shuei-ai-go.png)
+![Shuei AI Assistant](../assets/shuei-ai-go.png)
 
 SHUEIでは、人工知能の変革力とその業界を革新し、生活を改善し、世界の最も差し迫った課題を解決する可能性に情熱を注いでいます。AIイノベーションの最前線に立つことを使命とする企業として、このブログを立ち上げ、AIの絶えず進化する分野からの洞察、経験、最新のニュースを共有できることを非常に嬉しく思います。
 
