@@ -2,12 +2,6 @@
 
 This repository contains the source code and blog posts for the Shuei AI Team blog, powered by Jekyll.
 
-Here is a refined version of the README.md file:
-
-# Shuei AI Team Blog
-
-This repository contains the source code and blog posts for the Shuei AI Team blog, powered by Jekyll.
-
 ## Creating a New Post
 
 To create a new blog post, follow these steps:
