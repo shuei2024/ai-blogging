@@ -21,7 +21,8 @@ Retrieval-Augmented Generation (RAG) is a method designed to enhance the efficie
 -   **Generator**: Typically an LLM, the Generator's role is to produce information based on the extractions provided by the Retriever.
 
 Together, the Retriever and Generator address challenges faced by previous solutions that relied solely on LLMs, thereby enhancing the practical applicability of LLMs in real-world scenarios.
-![RAG process Overview](https://drive.google.com/file/d/14WsVBTd940YEvRttjnYT-gUA97WMSpwG/view?usp=drive_link)
+
+![RAG Process Overview]({{ site.url }}/assets/RAG_overview.png)
 
 
 # BM25 Encoder
