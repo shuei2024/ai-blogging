@@ -39,7 +39,7 @@ AlexNet [[1]](#1) is a groundbreaking deep learning model that significantly adv
     
 -   *GPU Implementation*: AlexNet was one of the first models to take full advantage of GPUs for training, enabling faster computation and making it feasible to train deeper networks.
 
-![AlexNet Architecture](https://drive.google.com/file/d/1gUKpluIaFWb742h0EKRI1Ffw2bmoioV_/view?usp=drive_link)
+![AlexNet Architecture]({{ site.url }}/assets/AlexNet.png)
 
 AlexNet's success demonstrated the effectiveness of deep CNNs in image classification tasks, leading to a surge in research and development in deep learning. Moreover, AlexNet's introduction marked a significant turning point, making deep learning a mainstream approach in AI research and applications.
 
@@ -56,7 +56,7 @@ VGG-16 [[2]](#2) is a deep convolutional neural network (CNN) architecture that 
     
 -   *Parameterization*: VGG-16 has around 138 million parameters, which, while large, allows the network to learn complex representations of the input images.
 
-![VGG-16 Architecture](https://drive.google.com/file/d/1fBr-4-0JErqLOjhswVXOVMo9RyauVSL5/view?usp=drive_link)
+![VGG-16 Architecture]({{ site.url }}/assets/VGG-16.png)
    
 VGG-16 builds on the success of AlexNet by deepening the network and simplifying the architecture to make it more consistent. This increase in depth allows VGG-16 to perform better on image classification tasks, though at the cost of higher computational and memory demands. Both models have significantly influenced the development of more advanced CNN architectures in the years following their introduction.
 
@@ -71,7 +71,7 @@ ResNet50 [[3]](#3), short for Residual Networks with 50 layers, is a deep convol
     
 -   *Skip Connections*: These connections between the input and output of each block allow the gradient to flow directly through the network, making training deep networks more feasible and effective. This innovation is what makes ResNet50 significantly more robust and easier to train compared to earlier deep networks.
 
-![ResNet50 Architecture](https://drive.google.com/file/d/1dGq8Uuh_MdGGuy36dKd0tOU4J-zxFVMB/view?usp=drive_link)
+![ResNet50 Architecture]({{ site.url }}/assets/ResNet50.png)
 
 ResNet50 has become one of the most popular feature extractors in many modern models due to several factors:
 
