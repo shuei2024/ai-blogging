@@ -56,7 +56,7 @@ VGG-16 [[2]](#2) is a deep convolutional neural network (CNN) architecture that 
     
 -   *Parameterization*: VGG-16 has around 138 million parameters, which, while large, allows the network to learn complex representations of the input images.
 
-![VGG-16 Architecture]({{ site.url }}/assets/VGG-16.png)
+![VGG-16 Architecture]({{ site.url }}/assets/VGG-16.jpg)
    
 VGG-16 builds on the success of AlexNet by deepening the network and simplifying the architecture to make it more consistent. This increase in depth allows VGG-16 to perform better on image classification tasks, though at the cost of higher computational and memory demands. Both models have significantly influenced the development of more advanced CNN architectures in the years following their introduction.
 
