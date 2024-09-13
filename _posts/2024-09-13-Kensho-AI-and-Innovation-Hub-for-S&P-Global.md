@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kensho: AI and Innovation Hub for S&P Global"
-date: 2024-08-29 10:00:00 +0900
+date: 2024-09-13 10:00:00 +0900
 author: Tri Thanh
 categories: AI Engineer, Researching
 ---
