@@ -52,7 +52,7 @@ In FRONTEO, a team of researchers with extensive knowledge in the life sciences 
 
 FRONTEO's E-Discovery support service provides a one-stop service based on the "EDRM" (Electronic Discovery Reference Model), which is a reference procedure for conducting e-discovery recommended by the e-discovery industry and is a global standard operating guideline for disclosing electronic information in response to a document production request, outlines the e-discovery workflow, and has earned the trust of clients.
 
-![ ](https://drive.google.com/file/d/1vwuT1WcRjbmpuE9FtjVfDPpR69QIybPi/view?usp=drive_link)
+![FRONTEO E-Discovery]({{ site.url }}/assets/E-Discovery.png)
 
 ### FRONTEO's Forensic Investigations
 
@@ -60,7 +60,7 @@ Forensic analysis, originally used in legal investigations, now refers to collec
 
 FRONTEO's forensic investigation service consists of five steps, and it provides speedy, high-quality service at every step:
 
-![ ](https://drive.google.com/file/d/1BOmu3rNWHp4SG8flA7eY9XpHG-4lkX5D/view?usp=drive_link)
+![FRONTEO Forensic Investigation]({{ site.url }}/assets/Forensic Investigation.png)
 
 - Interview: Hearing about the details of the problem (incident) by phone or through inquiry form to conclude an investigation plan and provide an estimate for the investigation costs.
 
@@ -98,23 +98,23 @@ Kibit Eye significantly reduces the amount of work required for audit work and p
 
 - Financial Instruments and Exchange Act Audit
 
-![ ](https://drive.google.com/file/d/1Hn-mdhirFW3_1nYEKr1LJTi3Y8Mtkk1f/view?usp=drive_link)
+![FRONTEO Kibit Eye]({{ site.url }}/assets/Kibit Eye.png)
 
 ### Kibit WordSonar for AccidentView
 
 KIBIT WordSonar for AccidentView is an AI system designed to predict and prevent industrial accidents at manufacturing and construction sites. It analyzes vast amounts of text data from daily reports, work logs, and government accident data. By processing daily input on work content, the AI identifies potential risks and suggests relevant safety measures. As it continuously updates with new data, it improves prediction accuracy and helps monitor changing risk levels, enabling timely warnings and appropriate safety interventions for workers.
 
-![ ](https://drive.google.com/file/d/1JQW5OB0lPs_nFcAiopWHAXFslbOSVLar/view?usp=drive_link)
+![FRONTEO WordSona for AccidentView]({{ site.url }}/assets/Kibit WordSonar.png)
 
 When you enter "working with a conveyor belt on a hot day," the app not only predicts and searches for hazards, but also displays prediction results that extract similar cases from past cases. The results can be shared with everyone, from managers to those in charge, leading to the prevention of industrial accidents at manufacturing and construction sites.
 
-![ ](https://drive.google.com/file/d/1hscFJG1DCDMj7UUz15Py66FhJNX0J6kK/view?usp=drive_link)
+![FRONTEO WordSona for AccidentView]({{ site.url }}/assets/Kibit WordSonar 2.png)
 
 ### Kibit WordSonar for VoiceView
 
 For sustainable growth, companies must quickly capture customer feedback (VOC) and adapt to changes. As communication tools expand, gathering feedback has become easier, but analyzing vast amounts of data manually is difficult. KIBIT WordSonar for VoiceView leverages AI to classify and analyze underlying assumptions in customer feedback, helping companies identify new opportunities and business insights. This AI-driven solution enables businesses to respond rapidly to emerging customer needs and social changes.
 
-![ ](https://drive.google.com/file/d/1FWGS3vyjkKqgC3mKjcdOx_YLiNoKwybI/view?usp=drive_link)
+![FRONTEO Kibit WordSonar for VoiceView]({{ site.url }}/assets/Kibit WordSonar for VoiceView.png)
 
 
 ## References

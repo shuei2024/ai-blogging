@@ -45,6 +45,7 @@ Marketing automation involves using intelligent software to help manage aspects 
 -   Retention
 
 Some features of Adobe Marketo Engage include:
+
 - **Cross-channel marketing:** Today's customer journeys are driven by the customers themselves. Can connect with customers wherever they are. The software utilizes customer-triggered events to maintain conversations both online and offline across various channels. This includes email, social media, paid media, SMS, and events, all managed from a unified central hub.
 
 - **Content Intelligence:** Demonstrate understanding of customers with personalized content delivered at the optimal time, consistently. Leverages comprehensive profiles, real-time behavioral and demographic data, and AI to tailor user experiences across various touchpoints, including emails and landing pages, even for anonymous visitors.
