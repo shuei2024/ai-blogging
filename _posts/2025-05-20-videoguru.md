@@ -38,7 +38,7 @@ The app’s interface is clean and intuitive, designed to be user-friendly even 
 VideoGuru performs well on modern Android devices, offering smooth timeline navigation and relatively fast video exporting. While exporting 4K videos may take longer on older devices, the overall experience remains stable without frequent crashes. The app supports screen recording and text-to-voice features, adding to its versatility.
 
 
-## **HLimitations to Consider**:
+## **Limitations to Consider**:
 
 Despite its many strengths, VideoGuru has some limitations:
 
